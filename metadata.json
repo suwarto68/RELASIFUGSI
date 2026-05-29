@@ -1,0 +1,6 @@
+{
+  "name": "Relasi dan Fungsi - Media Pembelajaran",
+  "description": "Media pembelajaran interaktif matematika untuk bab Relasi dan Fungsi Kelas 7 SMP Fase D oleh Suwarto, S.Pd.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
